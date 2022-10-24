@@ -1,4 +1,4 @@
-# BIeTgatepowers
+# BITgatepowers
 Algorithm to find ideal gate powers for bells inequality test outlined in Quantum Computing: An Applied Approach by J. Hidary
 I couldn't figure out how to apply appropriate gate powers at one point, so I cycled through every possible gate power value 
 to attempt to maximise the theoretical bells inequality condition of 85%. Values of gates should be to the power of -0.25 for the non-controlled
